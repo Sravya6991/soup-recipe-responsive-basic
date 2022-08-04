@@ -1,0 +1,48 @@
+@media (min-width: 340px) and (max-width: 1024px) {
+    #navbar {
+        font-size: 16px;
+        justify-content: space-around;
+    }
+    
+    #navbar h1 {
+        font-size: 18px;
+        margin-left: 50px;
+    }
+    
+    #navbar ul {
+        margin-right: 20px;
+    }
+    
+    #navbar li {
+        margin-right: 20px;
+    }
+    
+    .content-part {
+        grid-template-columns: 100%;
+        margin-left: 15px;
+        padding: 2px;
+        font-size: 16px;
+    }
+    
+    h5 {
+        font-size: 15px;
+    }
+    
+    h3 {
+        font-size: 18px;
+    }
+
+    #content img {
+        float: none;
+    }
+    #sidebar-1 {
+      display: none;
+    }
+    
+    #footer {
+        font-size: 15px;
+    }
+}
+    
+    
+    
